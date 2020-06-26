@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AccontingModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Acconting">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CustomerID" Type="Int32" Nullable="false" />
+    <Property Name="TypeID" Type="Int32" Nullable="false" />
+    <Property Name="Amount" Type="Int32" Nullable="false" />
+    <Property Name="Description" Type="String" MaxLength="800" FixedLength="false" Unicode="true" />
+    <Property Name="DateTime" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="AccontingType" Relationship="Self.FK_Acconting_AccontingType" FromRole="Acconting" ToRole="AccontingType" />
+    <NavigationProperty Name="CustomerTB" Relationship="Self.FK_Acconting_CustomerTB" FromRole="Acconting" ToRole="CustomerTB" />
+  </EntityType>
+  <EntityType Name="AccontingType">
+    <Key>
+      <PropertyRef Name="TypeID" />
+    </Key>
+    <Property Name="TypeID" Type="Int32" Nullable="false" />
+    <Property Name="Title" Type="String" MaxLength="150" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Acconting" Relationship="Self.FK_Acconting_AccontingType" FromRole="AccontingType" ToRole="Acconting" />
+  </EntityType>
+  <EntityType Name="CustomerTB">
+    <Key>
+      <PropertyRef Name="CustomerID" />
+    </Key>
+    <Property Name="CustomerID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FullName" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Phone" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="450" FixedLength="false" Unicode="true" />
+    <Property Name="Address" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="CustomerIMG" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Acconting" Relationship="Self.FK_Acconting_CustomerTB" FromRole="CustomerTB" ToRole="Acconting" />
+  </EntityType>
+  <Association Name="FK_Acconting_AccontingType">
+    <End Role="AccontingType" Type="Self.AccontingType" Multiplicity="1" />
+    <End Role="Acconting" Type="Self.Acconting" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AccontingType">
+        <PropertyRef Name="TypeID" />
+      </Principal>
+      <Dependent Role="Acconting">
+        <PropertyRef Name="TypeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Acconting_CustomerTB">
+    <End Role="CustomerTB" Type="Self.CustomerTB" Multiplicity="1" />
+    <End Role="Acconting" Type="Self.Acconting" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CustomerTB">
+        <PropertyRef Name="CustomerID" />
+      </Principal>
+      <Dependent Role="Acconting">
+        <PropertyRef Name="CustomerID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="AccontingEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Acconting" EntityType="Self.Acconting" />
+    <EntitySet Name="AccontingType" EntityType="Self.AccontingType" />
+    <EntitySet Name="CustomerTB" EntityType="Self.CustomerTB" />
+    <AssociationSet Name="FK_Acconting_AccontingType" Association="Self.FK_Acconting_AccontingType">
+      <End Role="AccontingType" EntitySet="AccontingType" />
+      <End Role="Acconting" EntitySet="Acconting" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Acconting_CustomerTB" Association="Self.FK_Acconting_CustomerTB">
+      <End Role="CustomerTB" EntitySet="CustomerTB" />
+      <End Role="Acconting" EntitySet="Acconting" />
+    </AssociationSet>
+    <EntitySet Name="Login" EntityType="AccontingModel.Login" />
+  </EntityContainer>
+  <EntityType Name="Login">
+    <Key>
+      <PropertyRef Name="LoginID" />
+    </Key>
+    <Property Name="LoginID" Type="Int32" Nullable="false" />
+    <Property Name="UserId" Type="String" Nullable="false" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Name="password" Type="String" Nullable="false" MaxLength="150" FixedLength="false" Unicode="true" />
+  </EntityType>
+</Schema>

@@ -1,0 +1,16 @@
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.ViewModle\bin\Debug\Acconting.ViewModle.dll
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.ViewModle\bin\Debug\Acconting.ViewModle.pdb
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.ViewModle\obj\Debug\Acconting.ViewModle.csprojAssemblyReference.cache
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.ViewModle\obj\Debug\Acconting.ViewModle.dll
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.ViewModle\obj\Debug\Acconting.ViewModle.pdb
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.ViewModle\obj\Debug\Acconting.ViewModle.csprojAssemblyReference.cache
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.ViewModle\obj\Debug\Acconting.ViewModle.dll
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.ViewModle\obj\Debug\Acconting.ViewModle.pdb
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.ViewModle\bin\Debug\Acconting.ViewModle.dll
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.ViewModle\bin\Debug\Acconting.ViewModle.pdb
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.ViewModle\bin\Debug\Acconting.ViewModle.dll
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.ViewModle\bin\Debug\Acconting.ViewModle.pdb
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.ViewModle\obj\Debug\Acconting.ViewModle.csprojAssemblyReference.cache
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.ViewModle\obj\Debug\Acconting.ViewModle.csproj.CoreCompileInputs.cache
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.ViewModle\obj\Debug\Acconting.ViewModle.dll
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.ViewModle\obj\Debug\Acconting.ViewModle.pdb

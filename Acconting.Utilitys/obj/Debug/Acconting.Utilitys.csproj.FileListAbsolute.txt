@@ -1,0 +1,16 @@
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.Utilitys\bin\Debug\Acconting.Utilitys.dll
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.Utilitys\bin\Debug\Acconting.Utilitys.pdb
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.Utilitys\obj\Debug\Acconting.Utilitys.csprojAssemblyReference.cache
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.Utilitys\obj\Debug\Acconting.Utilitys.dll
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.Utilitys\obj\Debug\Acconting.Utilitys.pdb
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.Utilitys\obj\Debug\Acconting.Utilitys.csprojAssemblyReference.cache
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.Utilitys\obj\Debug\Acconting.Utilitys.dll
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.Utilitys\obj\Debug\Acconting.Utilitys.pdb
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.Utilitys\bin\Debug\Acconting.Utilitys.dll
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.Utilitys\bin\Debug\Acconting.Utilitys.pdb
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.Utilitys\bin\Debug\Acconting.Utilitys.dll
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.Utilitys\bin\Debug\Acconting.Utilitys.pdb
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.Utilitys\obj\Debug\Acconting.Utilitys.csprojAssemblyReference.cache
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.Utilitys\obj\Debug\Acconting.Utilitys.csproj.CoreCompileInputs.cache
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.Utilitys\obj\Debug\Acconting.Utilitys.dll
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.Utilitys\obj\Debug\Acconting.Utilitys.pdb

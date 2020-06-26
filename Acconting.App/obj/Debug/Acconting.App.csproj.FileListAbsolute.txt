@@ -1,0 +1,105 @@
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.App\bin\Debug\Acconting.App.exe.config
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.App\bin\Debug\Acconting.App.exe
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.App\bin\Debug\Acconting.App.pdb
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.App\obj\Debug\Acconting.App.csprojAssemblyReference.cache
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.App\obj\Debug\Acconting.App.Properties.Resources.resources
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.App\obj\Debug\Acconting.App.csproj.GenerateResource.cache
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.App\obj\Debug\Acconting.App.exe
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.App\obj\Debug\Acconting.App.pdb
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.App\bin\Debug\Acconting.DateLayer.dll
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.App\bin\Debug\EntityFramework.dll
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.App\bin\Debug\Acconting.DateLayer.pdb
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.App\bin\Debug\Acconting.DateLayer.dll.config
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.App\bin\Debug\EntityFramework.xml
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.App\obj\Debug\Acconting.App.csproj.CopyComplete
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.App\bin\Debug\PersianDate.dll
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.App\bin\Debug\PopupControl.dll
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.App\bin\Debug\PersianDate.pdb
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.App\bin\Debug\PopupControl.xml
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.App\obj\Debug\Acconting.App.Form1.resources
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.App\obj\Debug\Acconting.App.FormCustomers.resources
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\Acconting.App.exe.config
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\Acconting.App.exe
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\Acconting.App.pdb
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\Acconting.DateLayer.dll
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\EntityFramework.dll
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\EntityFramework.SqlServer.dll
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\PersianDate.dll
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\PopupControl.dll
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\Acconting.DateLayer.pdb
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\Acconting.DateLayer.dll.config
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\EntityFramework.xml
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\EntityFramework.SqlServer.xml
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\PersianDate.pdb
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\PopupControl.xml
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\obj\Debug\Acconting.App.csprojAssemblyReference.cache
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\obj\Debug\Acconting.App.Form1.resources
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\obj\Debug\Acconting.App.FormCustomers.resources
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\obj\Debug\Acconting.App.Properties.Resources.resources
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\obj\Debug\Acconting.App.csproj.GenerateResource.cache
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\obj\Debug\Acconting.App.csproj.CopyComplete
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\obj\Debug\Acconting.App.exe
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\obj\Debug\Acconting.App.pdb
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\obj\Debug\Acconting.App.AddOrEditeForm.resources
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\obj\Debug\Acconting.App.FormTransection.resources
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\Acconting.ViewModle.dll
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\Acconting.ViewModle.pdb
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\Acconting.Utilitys.dll
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\Acconting.Utilitys.pdb
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\obj\Debug\Acconting.App.ForrmReport.resources
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\obj\Debug\Acconting.App.FormLogin.resources
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\Acconting.Businus.dll
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\Acconting.Businus.pdb
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\Stimulsoft.Base.dll
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\Stimulsoft.Report.dll
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\Stimulsoft.Base.xml
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\Stimulsoft.Report.xml
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\Stimulsoft.Controls.Win.dll
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\Stimulsoft.Controls.Win.xml
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\Stimulsoft.Report.Win.dll
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\Stimulsoft.Controls.dll
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\Stimulsoft.Report.Win.xml
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\Stimulsoft.Controls.xml
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\Acconting.App.exe.config
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\Acconting.App.exe
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\Acconting.App.pdb
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\Acconting.Businus.dll
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\Acconting.DateLayer.dll
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\Acconting.Utilitys.dll
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\Acconting.ViewModle.dll
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\EntityFramework.dll
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\EntityFramework.SqlServer.dll
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\Stimulsoft.Base.dll
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\Stimulsoft.Controls.Win.dll
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\Stimulsoft.Report.dll
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\Stimulsoft.Report.Win.dll
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\Stimulsoft.Controls.dll
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\Acconting.Businus.pdb
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\Acconting.DateLayer.pdb
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\Acconting.DateLayer.dll.config
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\Acconting.Utilitys.pdb
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\Acconting.ViewModle.pdb
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\EntityFramework.xml
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\EntityFramework.SqlServer.xml
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\PersianDate.pdb
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\PopupControl.xml
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\Stimulsoft.Base.xml
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\Stimulsoft.Controls.Win.xml
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\Stimulsoft.Report.xml
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\Stimulsoft.Report.Win.xml
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\bin\Debug\Stimulsoft.Controls.xml
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\obj\Debug\Acconting.App.csprojAssemblyReference.cache
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\obj\Debug\Acconting.App.AddOrEditeForm.resources
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\obj\Debug\Acconting.App.Form1.resources
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\obj\Debug\Acconting.App.FormCustomers.resources
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\obj\Debug\Acconting.App.FormLogin.resources
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\obj\Debug\Acconting.App.FormTransection.resources
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\obj\Debug\Acconting.App.ForrmReport.resources
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\obj\Debug\Acconting.App.Properties.Resources.resources
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\obj\Debug\Acconting.App.csproj.GenerateResource.cache
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\obj\Debug\Acconting.App.csproj.CoreCompileInputs.cache
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\obj\Debug\Acconting.App.csproj.CopyComplete
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\obj\Debug\Acconting.App.exe
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.App\obj\Debug\Acconting.App.pdb

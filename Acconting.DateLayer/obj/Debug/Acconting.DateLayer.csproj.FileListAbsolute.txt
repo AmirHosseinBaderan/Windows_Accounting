@@ -1,0 +1,42 @@
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.DateLayer\bin\Debug\Acconting.DateLayer.dll.config
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.DateLayer\bin\Debug\Acconting.DateLayer.dll
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.DateLayer\bin\Debug\Acconting.DateLayer.pdb
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.DateLayer\bin\Debug\EntityFramework.dll
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.DateLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.DateLayer\bin\Debug\EntityFramework.xml
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.DateLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.DateLayer\obj\Debug\Acconting.DateLayer.csprojAssemblyReference.cache
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.DateLayer\obj\Debug\Acconting.DateLayer.csproj.CopyComplete
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.DateLayer\obj\Debug\Acconting.DateLayer.dll
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.DateLayer\obj\Debug\Acconting.DateLayer.pdb
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.DateLayer\bin\Debug\Acconting.DateLayer.dll.config
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.DateLayer\bin\Debug\Acconting.DateLayer.dll
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.DateLayer\bin\Debug\Acconting.DateLayer.pdb
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.DateLayer\bin\Debug\EntityFramework.dll
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.DateLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.DateLayer\bin\Debug\EntityFramework.xml
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.DateLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.DateLayer\obj\Debug\Acconting.DateLayer.csprojAssemblyReference.cache
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.DateLayer\obj\Debug\Acconting.DateLayer.csproj.CopyComplete
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.DateLayer\obj\Debug\Acconting.DateLayer.dll
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.DateLayer\obj\Debug\Acconting.DateLayer.pdb
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.DateLayer\bin\Debug\Acconting.ViewModle.dll
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.DateLayer\bin\Debug\Acconting.ViewModle.pdb
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.DateLayer\bin\Debug\Acconting.Utilitys.dll
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.DateLayer\bin\Debug\Acconting.Utilitys.pdb
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.DateLayer\bin\Debug\Acconting.DateLayer.dll.config
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.DateLayer\bin\Debug\Acconting.DateLayer.dll
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.DateLayer\bin\Debug\Acconting.DateLayer.pdb
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.DateLayer\bin\Debug\Acconting.Utilitys.dll
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.DateLayer\bin\Debug\Acconting.ViewModle.dll
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.DateLayer\bin\Debug\EntityFramework.dll
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.DateLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.DateLayer\bin\Debug\Acconting.Utilitys.pdb
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.DateLayer\bin\Debug\Acconting.ViewModle.pdb
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.DateLayer\bin\Debug\EntityFramework.xml
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.DateLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.DateLayer\obj\Debug\Acconting.DateLayer.csprojAssemblyReference.cache
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.DateLayer\obj\Debug\Acconting.DateLayer.csproj.CoreCompileInputs.cache
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.DateLayer\obj\Debug\Acconting.DateLayer.csproj.CopyComplete
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.DateLayer\obj\Debug\Acconting.DateLayer.dll
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.DateLayer\obj\Debug\Acconting.DateLayer.pdb

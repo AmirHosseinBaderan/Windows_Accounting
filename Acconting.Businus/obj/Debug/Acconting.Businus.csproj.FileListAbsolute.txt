@@ -1,0 +1,32 @@
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.Businus\bin\Debug\Acconting.Businus.dll
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.Businus\bin\Debug\Acconting.Businus.pdb
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.Businus\obj\Debug\Acconting.Businus.csprojAssemblyReference.cache
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.Businus\obj\Debug\Acconting.Businus.dll
+C:\Users\Amir Hossin\source\repos\Acconting\Acconting.Businus\obj\Debug\Acconting.Businus.pdb
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.Businus\bin\Debug\Acconting.Businus.dll
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.Businus\bin\Debug\Acconting.Businus.pdb
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.Businus\bin\Debug\Acconting.DateLayer.dll
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.Businus\bin\Debug\Acconting.ViewModle.dll
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.Businus\bin\Debug\EntityFramework.dll
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.Businus\bin\Debug\Acconting.DateLayer.pdb
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.Businus\bin\Debug\Acconting.DateLayer.dll.config
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.Businus\bin\Debug\Acconting.ViewModle.pdb
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.Businus\bin\Debug\EntityFramework.xml
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.Businus\obj\Debug\Acconting.Businus.csprojAssemblyReference.cache
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.Businus\obj\Debug\Acconting.Businus.csproj.CopyComplete
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.Businus\obj\Debug\Acconting.Businus.dll
+E:\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.Businus\obj\Debug\Acconting.Businus.pdb
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.Businus\bin\Debug\Acconting.Businus.dll
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.Businus\bin\Debug\Acconting.Businus.pdb
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.Businus\bin\Debug\Acconting.DateLayer.dll
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.Businus\bin\Debug\Acconting.ViewModle.dll
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.Businus\bin\Debug\EntityFramework.dll
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.Businus\bin\Debug\Acconting.DateLayer.pdb
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.Businus\bin\Debug\Acconting.DateLayer.dll.config
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.Businus\bin\Debug\Acconting.ViewModle.pdb
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.Businus\bin\Debug\EntityFramework.xml
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.Businus\obj\Debug\Acconting.Businus.csprojAssemblyReference.cache
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.Businus\obj\Debug\Acconting.Businus.csproj.CoreCompileInputs.cache
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.Businus\obj\Debug\Acconting.Businus.csproj.CopyComplete
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.Businus\obj\Debug\Acconting.Businus.dll
+D:\New folder\project\java , cs ,\cs\Windows Forms\Acconting\Acconting.Businus\obj\Debug\Acconting.Businus.pdb

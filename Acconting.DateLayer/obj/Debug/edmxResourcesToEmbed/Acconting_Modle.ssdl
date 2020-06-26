@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AccontingModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Acconting">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CustomerID" Type="int" Nullable="false" />
+    <Property Name="TypeID" Type="int" Nullable="false" />
+    <Property Name="Amount" Type="int" Nullable="false" />
+    <Property Name="Description" Type="nvarchar" MaxLength="800" />
+    <Property Name="DateTime" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="AccontingType">
+    <Key>
+      <PropertyRef Name="TypeID" />
+    </Key>
+    <Property Name="TypeID" Type="int" Nullable="false" />
+    <Property Name="Title" Type="nvarchar" MaxLength="150" Nullable="false" />
+  </EntityType>
+  <EntityType Name="CustomerTB">
+    <Key>
+      <PropertyRef Name="CustomerID" />
+    </Key>
+    <Property Name="CustomerID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FullName" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="Phone" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="Email" Type="nvarchar" MaxLength="450" />
+    <Property Name="Address" Type="nvarchar" MaxLength="250" />
+    <Property Name="CustomerIMG" Type="nvarchar" MaxLength="250" />
+  </EntityType>
+  <EntityType Name="Login">
+    <Key>
+      <PropertyRef Name="LoginID" />
+    </Key>
+    <Property Name="LoginID" Type="int" Nullable="false" />
+    <Property Name="UserId" Type="nvarchar" MaxLength="150" Nullable="false" />
+    <Property Name="password" Type="nvarchar" MaxLength="150" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Acconting_AccontingType">
+    <End Role="AccontingType" Type="Self.AccontingType" Multiplicity="1" />
+    <End Role="Acconting" Type="Self.Acconting" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AccontingType">
+        <PropertyRef Name="TypeID" />
+      </Principal>
+      <Dependent Role="Acconting">
+        <PropertyRef Name="TypeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Acconting_CustomerTB">
+    <End Role="CustomerTB" Type="Self.CustomerTB" Multiplicity="1" />
+    <End Role="Acconting" Type="Self.Acconting" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CustomerTB">
+        <PropertyRef Name="CustomerID" />
+      </Principal>
+      <Dependent Role="Acconting">
+        <PropertyRef Name="CustomerID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="AccontingModelStoreContainer">
+    <EntitySet Name="Acconting" EntityType="Self.Acconting" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="AccontingType" EntityType="Self.AccontingType" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CustomerTB" EntityType="Self.CustomerTB" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Login" EntityType="Self.Login" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Acconting_AccontingType" Association="Self.FK_Acconting_AccontingType">
+      <End Role="AccontingType" EntitySet="AccontingType" />
+      <End Role="Acconting" EntitySet="Acconting" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Acconting_CustomerTB" Association="Self.FK_Acconting_CustomerTB">
+      <End Role="CustomerTB" EntitySet="CustomerTB" />
+      <End Role="Acconting" EntitySet="Acconting" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
